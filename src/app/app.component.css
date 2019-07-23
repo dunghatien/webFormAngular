@@ -1,0 +1,11 @@
+.card-body{
+    padding: 0px;
+}
+
+.list-group-item:hover{
+    background-color: antiquewhite;
+}
+
+a:hover{
+    text-decoration: none;
+}
