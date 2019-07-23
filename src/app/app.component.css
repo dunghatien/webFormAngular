@@ -9,3 +9,10 @@
 a:hover{
     text-decoration: none;
 }
+
+.list-group-item .show_hide{
+    visibility: hidden;
+}
+.list-group-item:hover .show_hide{
+    visibility: visible;
+}
